@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelaziz+Khalid;Laravel+%26+Magento+Developer+from+Egypt" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelaziz+Khalid;Laravel+%26+Magento+Developer+from+Egypt" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate Laravel & Magento developer from Egypt</h3>
