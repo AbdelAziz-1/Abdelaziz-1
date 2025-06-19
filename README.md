@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdelaziz Khalid</h1>
+<h3 align="center">A passionate Laravel & Magento developer from Egypt</h3>
 
-<!--
-**AbdelAziz-1/Abdelaziz-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Laravel/ Magento2 / Livewire / Docker**
+- 💬 Ask me about **Laravel, APIs, Blade, Eloquent, Magento**
+- 📫 How to reach me **abdelazizkahled010@gmail.com**
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelaziz-1&show_icons=true&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Laravel](https://img.shields.io/badge/-Laravel-E34F26?style=flat&logo=laravel&logoColor=white)
+![Magento](https://img.shields.io/badge/-Magento-FF9900?style=flat&logo=magento&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+
+🔗 Portfolio: [https://darkred-ibis-619182.hostingersite.com/](https://darkred-ibis-619182.hostingersite.com/)
+📄 CV: [Download Resume](https://darkred-ibis-619182.hostingersite.com/images/Abdelaziz%20Khaled.pdf)
